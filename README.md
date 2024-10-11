@@ -5,5 +5,4 @@
 - Pandas版本：2.2.3
 - matplotlib版本：3.8.4
 - 主体优化算法：粒子群算法
-!["项目界面"]("https://github.com/Miyano9/PortPlanningSystem/blob/main/imageGUI.png")
-
+!["项目界面"](https://github.com/Miyano9/PortPlanningSystem/blob/main/imageGUI.png?raw=true)
