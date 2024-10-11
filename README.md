@@ -5,5 +5,5 @@
 - Pandas版本：2.2.3
 - matplotlib版本：3.8.4
 - 主体优化算法：粒子群算法
-!["项目界面"]("C:\Users\13407\Pictures\Screenshots\屏幕截图 2024-10-11 083358.png")
+!["项目界面"]("imageGUI")
 
